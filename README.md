@@ -1,6 +1,8 @@
-# london_app_brewery_python (WIP)
+# 100 days of code challenge. 
 
-### Python course from the London app brewery bootcamp. Here I'm sharing 100 days of exercises I performed, in order to level up my Python skills.
+## Here I'm sharing 100 days of exercises I performed in the London App Brewery bootcamp
+
+This is a WIP. Here you can find the following exercises:
 
 Day_01: Learning to work with strings and string functions
 
