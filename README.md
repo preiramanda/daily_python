@@ -7,3 +7,5 @@ This is a WIP. Here you can find the following exercises:
 Day_01: Learning to work with strings and string functions
 
 Day_02: Using different data types and calculations
+
+Day_03: Working with conditionals (if, elif,else)
