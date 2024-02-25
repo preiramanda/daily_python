@@ -1,4 +1,4 @@
-
+#Rock, paper and scissors exercise
 rock = '''
     _______
 ---'   ____)
