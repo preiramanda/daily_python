@@ -10,4 +10,6 @@ Day_02: Using different data types and calculations
 
 Day_03: Working with conditionals (if, elif,else)
 
-Day_04: How to use lists and number randomizations
+Day_04: How to use lists and number randomizations 
+
+Day_05: Password Generator
