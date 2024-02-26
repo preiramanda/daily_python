@@ -13,3 +13,5 @@ Day_03: Working with conditionals (if, elif,else)
 Day_04: How to use lists and number randomizations 
 
 Day_05: Password Generator
+
+Day_06: Guess the number game
