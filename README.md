@@ -1,6 +1,6 @@
 # 100 days of code challenge. 
 
-## Here I'm sharing 100 days of exercises I performed in the London App Brewery bootcamp
+## Here I'm sharing 100 different exercises I performed in the London App Brewery bootcamp.
 
 This is a WIP. Here you can find the following exercises:
 
