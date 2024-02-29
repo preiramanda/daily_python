@@ -15,3 +15,5 @@ Day_04: How to use lists and number randomizations
 Day_05: Password Generator
 
 Day_06: Guess the number game
+
+Day_07: Hangman Game
