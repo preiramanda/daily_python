@@ -1,8 +1,6 @@
-# 100 days of code challenge. 
+# 100 days of code challenge - WIP
 
 ## Here I'm sharing 100 different exercises I performed in the London App Brewery bootcamp.
-
-This is a WIP. Here you can find the following exercises:
 
 Day_01: Learning to work with strings and string functions
 
