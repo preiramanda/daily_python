@@ -17,3 +17,7 @@ Day_06: Guess the number game
 Day_07: Hangman Game
 
 Day_08: Caesar Cipher script
+
+Day_09: Travel log script
+
+Day 10: Python Calculator
