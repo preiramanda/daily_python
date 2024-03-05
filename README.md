@@ -21,3 +21,7 @@
 [Day_09:](https://github.com/preiramanda/100_days_of_code_Python_challenge/blob/main/Day_09.py) Travel log script
 
 [Day 10:](https://github.com/preiramanda/100_days_of_code_Python_challenge/blob/main/Day_10.py) Python Calculator
+
+[Day 11:](https://github.com/preiramanda/100_days_of_code_Python_challenge/blob/main/Day_11.py) BlackJack game
+
+[Day 12:](https://github.com/preiramanda/100_days_of_code_Python_challenge/blob/main/Day_12.py) Guessing game
