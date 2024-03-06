@@ -26,4 +26,4 @@
 
 [Day 12:](https://github.com/preiramanda/100_days_of_code_Python_challenge/blob/main/Day_12.py) Guessing game - Guess a number
 
-[Day 13:](https://github.com/preiramanda/100_days_of_code_Python_challenge/blob/main/Day_13.py) Guessing game - Guess celebrities with + followers
+[Day 13:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_13) Guessing game - Guess celebrities with + followers
