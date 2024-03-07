@@ -22,14 +22,17 @@ def data(person):
 
 def game():
     score = 0
-
-    while True:
-        a = person()
+    a = person()
+    b = person()
+    play = True
+       
+    while play == True:
+        a = b
         b = person()
         
         while a == b:
             b = person()
-        
+
         print(data(a))
         print(data(b))
 
@@ -38,17 +41,17 @@ def game():
         af = followers(a)
         bf = followers(b)
 
-        if comp(guess, af, bf):
+        answer = comp(guess, af, bf)
+        
+        if answer:
             print("\nCorrect!\n")
             print(f'{a["name"]} has {af} followers\n{b["name"]} has {bf} followers')  
             score += 1
         else:
             print(f'\nWrong!\n{a["name"]} has {af} followers\n{b["name"]} has {bf} followers')   
             print(f"Your score was: {score}")
-            break
-        print("\nYour score:", score)
+            print("\nYour score:", score)
+            play = False
 
-    if comp(guess, af, bf):
-        game()
 
 game()
