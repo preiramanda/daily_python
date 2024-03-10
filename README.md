@@ -34,3 +34,5 @@
 
 [Day 16:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_16) Coffee vending machine OOP
 
+[Day 17:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_17) 
+Creating a quiz with OOP
