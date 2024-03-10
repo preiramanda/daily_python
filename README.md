@@ -30,4 +30,7 @@
 
 [Day 14:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_14) Guessing game - Guess celebrities with + followers
 
-[Day 15:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_14) Coffee vending machine
+[Day 15:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_15) Coffee vending machine
+
+[Day 16:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_16) Coffee vending machine OOP
+
