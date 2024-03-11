@@ -36,3 +36,7 @@
 
 [Day 17:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_17) 
 Creating a quiz with OOP
+
+
+[Day 18:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_18) 
+Playing with Turtle and learning tuples
