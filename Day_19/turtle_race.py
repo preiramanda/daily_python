@@ -30,7 +30,7 @@ for i in colors:
 while race:
     for i in turtle_list:
         
-        if i.xcor()>230:
+        if i.xcor()>210:
             race = False
             winner = i.pencolor()
             if winner == user_bet:
