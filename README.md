@@ -43,5 +43,5 @@ Playing with Turtle and learning tuples
 [Day 19:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_19) 
 Etch-a-skecth game and Turtle Race game with GUI 
 
-[Day 20 and 21:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_20) 
+[Day 20 and 21:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_20%20and%2021) 
 Snake Game with OOP 
