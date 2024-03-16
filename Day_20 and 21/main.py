@@ -26,7 +26,6 @@ game_is_on = True
 while game_is_on:
     screen.update()
 
-    
     if scoreboard.score > 9:
         time.sleep(0.1)
     else:
@@ -48,9 +47,5 @@ while game_is_on:
         if snake.head.distance(segment) < 10:
             game_is_on = False
             scoreboard.game_over()
-
-
-
-
 
 screen.exitonclick()
