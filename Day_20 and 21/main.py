@@ -25,7 +25,13 @@ scoreboard.mark() #adding my watermark
 game_is_on = True
 while game_is_on:
     screen.update()
-    time.sleep(0.1)
+
+    
+    if scoreboard.score > 9:
+        time.sleep(0.1)
+    else:
+        time.sleep(0.2)
+        
     snake.move()
 
 #detecting colision
@@ -38,10 +44,13 @@ while game_is_on:
         game_is_on = False
         scoreboard.game_over()
 
-    for segment in snake.segments:
-        if segment != snake.head:
-            if snake.head.distance(segment) < 10:
-                game_is_on = False
-                scoreboard.game_over()
+    for segment in snake.segments[1:]:
+        if snake.head.distance(segment) < 10:
+            game_is_on = False
+            scoreboard.game_over()
+
+
+
+
 
 screen.exitonclick()
