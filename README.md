@@ -1,6 +1,6 @@
 # 100 days of code challenge - WIP
 
-## Here I'm sharing 100 different exercises I performed in the London App Brewery bootcamp.
+## Here I'm sharing 100 different exercises I performed in the London App Brewery Bootcamp.
 
 [Day_01:](https://github.com/preiramanda/100_days_of_code_Python_challenge/blob/main/Day_01.py) Learning to work with strings and string functions
 
@@ -34,14 +34,19 @@
 
 [Day 16:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_16) Coffee vending machine OOP
 
-[Day 17:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_17) 
-Creating a quiz with OOP
+[Day 17:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_17) Creating a quiz with OOP
 
-[Day 18:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_18) 
-Playing with Turtle and learning tuples
+[Day 18:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_18) Playing with Turtle and learning tuples
 
-[Day 19:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_19) 
-Etch-a-skecth game and Turtle Race game with GUI 
+[Day 19:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_19) Etch-a-skecth game and Turtle Race game with GUI 
 
-[Day 20 and 21:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_20%20and%2021) 
-Snake Game with OOP 
+[Day 20 and 21:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_20%20and%2021) Snake Game with OOP 
+
+[Day_22:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_22) Pong Game
+
+[Day_23:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_23) Turtle Crossing Game
+
+ [Day_24:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_24) email merge exercise
+
+
+
