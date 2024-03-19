@@ -48,5 +48,4 @@
 
  [Day_24:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_24) email merge exercise
 
-
-
+ [Day_25:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_25/Day_25_Project) Naming U.S. states using pandas
