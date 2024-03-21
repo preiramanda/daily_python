@@ -51,3 +51,5 @@
 [Day_25:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_25/Day_25_Project) Naming U.S. states using pandas
 
 [Day_26:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_26/Day_26_project) Creating names based in the Nato alphabet
+
+Smaller changes
