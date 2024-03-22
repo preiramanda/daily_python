@@ -54,4 +54,4 @@
 
 [Day_27:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_27/Day_27_project) Creating miles to km calculator
 
-[Day_28:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_28/Day_28_project) Password manager using Python + JSON
+[Day_28:](https://github.com/preiramanda/100_days_of_code_Python_challenge/tree/main/Day_28/Day_28_project) Password manager using Tkinter + JSON
