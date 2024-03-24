@@ -57,3 +57,5 @@
 [Day_28 and 29:](https://github.com/preiramanda/daily_python/tree/main/Day_28_and_29/Day_project) Password manager using Tkinter + JSON
 
 [Day_30 and 31:](https://github.com/preiramanda/daily_python/tree/main/Day_30_and_31) Flash Cards using Tkinter + Pandas
+
+[Day_32:](https://github.com/preiramanda/daily_python/tree/main/Day_32/Day_32_project) Automating emails with smtplib + Pandas
