@@ -59,3 +59,7 @@
 [Day_30 and 31:](https://github.com/preiramanda/daily_python/tree/main/Day_30_and_31) Flash Cards using Tkinter + Pandas
 
 [Day_32:](https://github.com/preiramanda/daily_python/tree/main/Day_32/Day_32_project) Automating emails with smtplib + Pandas
+
+[Day_33:](https://github.com/preiramanda/daily_python/blob/main/Day_33/Day_33_project/main.py) Reading ISS API and sending emails acording to geolocation
+
+[Day_34:] (https://github.com/preiramanda/daily_python/tree/main/Day_34) Creating a Music Quizz app with TKinter and reading Open Trivia API
