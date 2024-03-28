@@ -62,4 +62,4 @@
 
 [Day_33:](https://github.com/preiramanda/daily_python/blob/main/Day_33/Day_33_project/main.py) Reading ISS API and sending emails acording to geolocation
 
-Day_34:(https://github.com/preiramanda/daily_python/tree/main/Day_34) Creating a Music Quizz app with TKinter and reading Open Trivia API
+[Day_34:](https://github.com/preiramanda/daily_python/tree/main/Day_34) Creating a Music Quizz app with TKinter and reading Open Trivia API
